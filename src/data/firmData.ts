@@ -4,7 +4,7 @@ export const FIRM_INFO = {
   name: "The Law Office of Isabel E. Freeman, P.A.",
   shortName: "Law Office of Isabel E. Freeman, P.A.",
   attorneyName: "Isabel E. Freeman, Esq.",
-  tagline: "Bankruptcy Appearance and Coverage Throughout Florida",
+  tagline: "Bankruptcy Appearance and Coverage Throughout the Middle District",
   subTagline: "Appearance coverage for Section 341 Meetings of Creditors, Confirmation Hearings, Motion Dockets, and Evidentiary & Non-Evidentiary Hearings across the Middle District of Florida",
   establishedYear: 1988,
   coverageOnlyYears: 10,
