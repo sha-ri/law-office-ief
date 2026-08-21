@@ -108,7 +108,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
               <AlertCircle className="w-4 h-4 text-amber-400 shrink-0 mt-0.5" />
               <div>
                 <strong className="text-amber-300 font-semibold">Emergency &amp; Last-Minute Coverage:</strong>{' '}
-                <span>Cell coverage in the Courthouse is unreliable. For expedited or last-minute coverage, please text <strong>{FIRM_INFO.phones.emergencyCell}</strong>.</span>
+                <span>Cell coverage in the Courthouse is unreliable.<br />For expedited or last-minute coverage, please text <strong>{FIRM_INFO.phones.emergencyCell}</strong>.</span>
               </div>
             </div>
           </div>
