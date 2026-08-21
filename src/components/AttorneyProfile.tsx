@@ -61,7 +61,7 @@ export const AttorneyProfile: React.FC = () => {
                 </div>
                 <div className="flex items-center justify-between py-1 border-b border-slate-100">
                   <span className="text-slate-500 font-medium">Coverage Scope:</span>
-                  <span className="font-bold text-[#0f2238]">All FL Bankruptcy Districts</span>
+                  <span className="font-bold text-[#0f2238]">Middle District of Florida</span>
                 </div>
                 <div className="flex items-center justify-between py-1 border-b border-slate-100">
                   <span className="text-slate-500 font-medium">Orlando Division:</span>
