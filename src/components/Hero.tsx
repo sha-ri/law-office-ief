@@ -33,7 +33,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
             </div>
 
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold font-legal-title leading-tight tracking-tight text-white">
-              Florida Bankruptcy Coverage &amp; <span className="text-[#f3e5ab] italic font-serif">Appearance Counsel</span>
+              Bankruptcy Coverage You Can Count On
             </h1>
 
             <p className="text-base sm:text-lg text-slate-200 leading-relaxed font-body-serif max-w-3xl">
