@@ -37,7 +37,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
             </h1>
 
             <p className="text-base sm:text-lg text-slate-200 leading-relaxed font-body-serif max-w-3xl">
-              Offering experienced attorney appearance coverage of <strong>Section 341 Meetings of Creditors</strong>, <strong>Confirmation Hearings</strong>, <strong>Motion Dockets</strong>, and <strong>Evidentiary &amp; Non-Evidentiary Hearings</strong> across all Florida Bankruptcy Districts.
+              Offering experienced attorney appearance coverage of <strong>Section 341 Meetings of Creditors</strong>, <strong>Confirmation Hearings</strong>, <strong>Motion Dockets</strong>, and <strong>Evidentiary &amp; Non-Evidentiary Hearings</strong> across the Middle District of Florida.
             </p>
 
             {/* Core Value Pillars Grid */}

@@ -104,7 +104,7 @@ export const AttorneyProfile: React.FC = () => {
 
               <div className="space-y-4 text-slate-700 text-sm sm:text-base font-body-serif leading-relaxed">
                 <p>
-                  Attorney <strong>Isabel E. Freeman</strong> has practiced bankruptcy law in Florida <strong>since 1988</strong> and is available for Zoom and telephonic 341 meetings of creditors, plan confirmation hearings, motion dockets, evidentiary hearings, and non-evidentiary hearings across all districts of Florida.
+                  Attorney <strong>Isabel E. Freeman</strong> has practiced bankruptcy law in Florida <strong>since 1988</strong> and is available for Zoom and telephonic 341 meetings of creditors, plan confirmation hearings, motion dockets, evidentiary hearings, and non-evidentiary hearings across the Middle District of Florida.
                 </p>
                 <p>
                   After over <strong>30 years of bankruptcy debtor representation</strong>, her practice has been <strong>limited exclusively to appearance coverage for the past ten (10) years</strong>. This extensive, specialized background gives hiring attorneys complete peace of mind that their clients and files will be handled with unmatched procedural mastery, deep familiarity with local trustees and judges, and genuine empathy.
@@ -149,10 +149,10 @@ export const AttorneyProfile: React.FC = () => {
                 <div className="p-4 bg-[#fbfaf7] border border-[#e7e2d6] rounded">
                   <div className="flex items-center space-x-2 text-[#0f2238] font-bold text-sm mb-1.5">
                     <Award className="w-4 h-4 text-[#c59b27]" />
-                    <span>All Florida Bankruptcy Districts</span>
+                    <span>Middle District of Florida Coverage</span>
                   </div>
                   <p className="text-xs text-slate-600">
-                    Providing virtual appearances statewide across the Middle, Northern, and Southern Districts, with in-person coverage in the Orlando Division.
+                    Providing virtual appearances in Fort Myers, Jacksonville, Ocala, and Tampa, with in-person coverage in the Orlando Division.
                   </p>
                 </div>
               </div>

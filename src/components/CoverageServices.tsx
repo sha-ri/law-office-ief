@@ -134,14 +134,14 @@ export const CoverageServices: React.FC = () => {
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 border-b border-slate-200 pb-4">
             <div>
               <span className="text-xs font-bold tracking-widest text-[#997424] uppercase font-seal">
-                Statewide Florida Bankruptcy Coverage
+                Middle District of Florida Bankruptcy Coverage
               </span>
               <h3 className="text-2xl font-bold font-legal-title text-[#0f2238]">
                 Court Jurisdictions &amp; Venues
               </h3>
             </div>
             <p className="text-xs text-slate-600 max-w-md">
-              Handling virtual Zoom appearances statewide across all divisions, with dedicated in-person coverage in the Orlando Division.
+              Handling virtual Zoom appearances across all Middle District of Florida divisions, with dedicated in-person coverage in the Orlando Division.
             </p>
           </div>
 

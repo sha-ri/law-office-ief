@@ -42,7 +42,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenDisclaimer }) 
             </div>
 
             <p className="text-xs text-slate-400 font-body-serif leading-relaxed">
-              Offering professional attorney appearance coverage of Section 341 Meetings of Creditors, Chapter 13 plan confirmations, motion dockets, and evidentiary &amp; non-evidentiary hearings across all Florida bankruptcy districts.
+              Offering professional attorney appearance coverage of Section 341 Meetings of Creditors, Chapter 13 plan confirmations, motion dockets, and evidentiary &amp; non-evidentiary hearings across the Middle District of Florida.
             </p>
 
             <div className="text-xs text-slate-400 space-y-1.5 pt-1">

@@ -5,7 +5,7 @@ export const FIRM_INFO = {
   shortName: "Law Office of Isabel E. Freeman, P.A.",
   attorneyName: "Isabel E. Freeman, Esq.",
   tagline: "Bankruptcy Appearance and Coverage Throughout Florida",
-  subTagline: "Appearance coverage for Section 341 Meetings of Creditors, Confirmation Hearings, Motion Dockets, and Evidentiary & Non-Evidentiary Hearings across all Florida Bankruptcy Districts",
+  subTagline: "Appearance coverage for Section 341 Meetings of Creditors, Confirmation Hearings, Motion Dockets, and Evidentiary & Non-Evidentiary Hearings across the Middle District of Florida",
   establishedYear: 1988,
   coverageOnlyYears: 10,
   debtorExpYears: 30,
@@ -33,7 +33,7 @@ export const FIRM_INFO = {
   },
   emergencyNotice: "In the event of an emergency or for last minute coverage, please text (407) 902-7985 in addition to emailing isabel@florida341.com and cc'ing iefesq@gmail.com. This cellphone is monitored at all times during regular business hours.",
   courthouseNote: "Cell coverage for email can be spotty in the Courthouse, whereas texting is immediate.",
-  bio: `Attorney Isabel E. Freeman has practiced bankruptcy law in Florida since 1988 and is available for Zoom and telephonic 341 meetings of creditors, plan confirmation hearings, motion dockets, evidentiary hearings, and non-evidentiary hearings across all districts of Florida. After over 30 years of bankruptcy debtor representation, her practice has been limited exclusively to appearance coverage for the past ten (10) years.`,
+  bio: `Attorney Isabel E. Freeman has practiced bankruptcy law in Florida since 1988 and is available for Zoom and telephonic 341 meetings of creditors, plan confirmation hearings, motion dockets, evidentiary hearings, and non-evidentiary hearings across the Middle District of Florida. After over 30 years of bankruptcy debtor representation, her practice has been limited exclusively to appearance coverage for the past ten (10) years.`,
 };
 
 export const RATES_DATA: RateItem[] = [
@@ -107,10 +107,10 @@ export const COURT_JURISDICTIONS: CourtDivisionInfo[] = [
     ],
   },
   {
-    division: 'All Other Middle District Divisions',
-    district: 'Middle District of Florida (Tampa, Jacksonville, Fort Myers)',
-    courthouse: 'U.S. Bankruptcy Court Middle District of Florida',
-    address: 'Tampa • Jacksonville • Fort Myers',
+    division: 'Fort Myers Division',
+    district: 'Middle District of Florida',
+    courthouse: 'U.S. Bankruptcy Court, Fort Myers Division',
+    address: 'Fort Myers, FL',
     coverageTypes: [
       'Virtual Appearances',
       '341 Creditors Meetings',
@@ -121,10 +121,10 @@ export const COURT_JURISDICTIONS: CourtDivisionInfo[] = [
     ],
   },
   {
-    division: 'Northern District Divisions',
-    district: 'Northern District of Florida (Tallahassee, Gainesville, Panama City, Pensacola)',
-    courthouse: 'U.S. Bankruptcy Court Northern District of Florida',
-    address: 'Tallahassee • Gainesville • Panama City • Pensacola',
+    division: 'Jacksonville Division',
+    district: 'Middle District of Florida',
+    courthouse: 'U.S. Bankruptcy Court, Jacksonville Division',
+    address: 'Jacksonville, FL',
     coverageTypes: [
       'Virtual Appearances',
       '341 Creditors Meetings',
@@ -135,10 +135,24 @@ export const COURT_JURISDICTIONS: CourtDivisionInfo[] = [
     ],
   },
   {
-    division: 'Southern District Divisions',
-    district: 'Southern District of Florida (Miami, Fort Lauderdale, West Palm Beach)',
-    courthouse: 'U.S. Bankruptcy Court Southern District of Florida',
-    address: 'Miami • Fort Lauderdale • West Palm Beach',
+    division: 'Ocala Division',
+    district: 'Middle District of Florida',
+    courthouse: 'U.S. Bankruptcy Court, Ocala Division',
+    address: 'Ocala, FL',
+    coverageTypes: [
+      'Virtual Appearances',
+      '341 Creditors Meetings',
+      'Confirmation Hearings',
+      'Motion Dockets',
+      'Non-Evidentiary Hearings',
+      'Evidentiary Hearings',
+    ],
+  },
+  {
+    division: 'Tampa Division',
+    district: 'Middle District of Florida',
+    courthouse: 'U.S. Bankruptcy Court, Tampa Division',
+    address: 'Tampa, FL',
     coverageTypes: [
       'Virtual Appearances',
       '341 Creditors Meetings',
@@ -177,7 +191,7 @@ export const LEGAL_DISCLAIMER_TEXT = {
     },
     {
       heading: "6. Florida Bar & Federal Court Jurisdiction Notice",
-      body: "Attorney Isabel E. Freeman is an active member in good standing of The Florida Bar (admitted 1988), admitted to practice before the United States District Courts and Bankruptcy Courts for the Middle, Northern, and Southern Districts of Florida."
+      body: "Attorney Isabel E. Freeman is an active member in good standing of The Florida Bar (admitted 1988), admitted to practice before the United States District Court and Bankruptcy Court for the Middle District of Florida."
     }
   ]
 };
