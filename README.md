@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Law Office of Isabel E. Freeman, P.A.
 
-# Run and deploy your AI Studio app
+Website for the Law Office of Isabel E. Freeman, P.A. — Florida bankruptcy appearance and coverage counsel.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5fb04f7d-899c-4f23-a569-c5fadd0ca1cc
+Live site: https://sha-ri.github.io/law-office-ief/
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
+
+## Build
+
+`npm run build` outputs a production build to `dist/`.
+
+## Deploy
+
+Pushes to `main` are automatically built and deployed to GitHub Pages via the workflow in `.github/workflows/deploy.yml`.
