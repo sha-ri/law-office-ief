@@ -1,0 +1,6 @@
+{
+  "name": "Law Office of Isabel E. Freeman, P.A.",
+  "description": "Florida bankruptcy attorney appearance coverage practice specializing in Zoom 341 meetings, confirmation hearings, motion dockets, and evidentiary hearings across all districts in Florida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
