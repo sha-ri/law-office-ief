@@ -152,7 +152,7 @@ export const AttorneyProfile: React.FC = () => {
                     <span>Middle District of Florida Coverage</span>
                   </div>
                   <p className="text-xs text-slate-600">
-                    Providing virtual appearances in Fort Myers, Jacksonville, Ocala, and Tampa, with in-person coverage in the Orlando Division.
+                    Providing virtual appearances in Fort Myers, Jacksonville, and Tampa, with in-person coverage in the Orlando Division.
                   </p>
                 </div>
               </div>

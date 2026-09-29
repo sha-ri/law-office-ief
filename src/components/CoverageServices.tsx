@@ -17,7 +17,7 @@ export const CoverageServices: React.FC = () => {
           </h2>
           <div className="w-12 h-0.5 bg-[#c59b27] mx-auto my-2"></div>
           <p className="text-slate-600 text-sm sm:text-base font-body-serif leading-relaxed">
-            Reliable, punctual appearance coverage across Chapter 7 and Chapter 13 proceedings for primary counsel and law firms throughout Florida.
+            Reliable, punctual appearance coverage across Chapter 7 and Chapter 13 proceedings for primary counsel and law firms throughout the Middle District of Florida.
           </p>
         </div>
 

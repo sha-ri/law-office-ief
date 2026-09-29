@@ -45,9 +45,9 @@ export const RATES_DATA: RateItem[] = [
     category: 'Chapter 7 & Chapter 13',
     description: 'Section 341 Meetings of Creditors conducted via Zoom or teleconference across Chapter 7 and Chapter 13 proceedings.',
     includes: [
-      'Pre-meeting appearance and debtor verification',
+      'Debtor pre-meeting reminder and ID verification',
       'Representation before Chapter 7 or Chapter 13 Trustee',
-      'Assistance with identity and debtor oath requirements',
+      'Preparation and Transmission of Meeting Notes',
     ],
   },
   {
@@ -58,8 +58,8 @@ export const RATES_DATA: RateItem[] = [
     category: 'Court Dockets & Confirmations',
     description: 'Routine court appearances, Chapter 13 plan confirmations, motion dockets, and uncontested hearings.',
     includes: [
-      'Comprehensive review of filed motion, objections, and docket',
-      'Appearance before presiding Judge (In-Person Orlando or Virtual)',
+      'Comprehensive review of provided motion, responses, objections, and docket',
+      'Appearance before presiding Judge (In-Person Orlando)',
       'Chapter 13 plan confirmation hearing representation',
     ],
   },
@@ -84,7 +84,7 @@ export const RATES_DATA: RateItem[] = [
     category: 'Expedited & Last-Minute Requests',
     description: 'Expedited appearance coverage requests received after 12:00 PM the day prior to a scheduled 341 meeting, or less than 24 hours before a scheduled hearing.',
     includes: [
-      'Expedited conflict clearance and document intake',
+      'Expedited conflict clearance and review of provided documents',
       'Monitored cellphone texting dispatch for urgent matters',
       'Immediate docket preparation and appearance coverage',
     ],
@@ -135,20 +135,6 @@ export const COURT_JURISDICTIONS: CourtDivisionInfo[] = [
     ],
   },
   {
-    division: 'Ocala Division',
-    district: 'Middle District of Florida',
-    courthouse: 'U.S. Bankruptcy Court, Ocala Division',
-    address: 'Ocala, FL',
-    coverageTypes: [
-      'Virtual Appearances',
-      '341 Creditors Meetings',
-      'Confirmation Hearings',
-      'Motion Dockets',
-      'Non-Evidentiary Hearings',
-      'Evidentiary Hearings',
-    ],
-  },
-  {
     division: 'Tampa Division',
     district: 'Middle District of Florida',
     courthouse: 'U.S. Bankruptcy Court, Tampa Division',
@@ -187,7 +173,7 @@ export const LEGAL_DISCLAIMER_TEXT = {
     },
     {
       heading: "5. Billing, Invoicing & Post-Hearing Reporting Policy",
-      body: "Coverage services are provided at agreed flat rates (or as agreed for evidentiary matters). Detailed hearing notes are transmitted to hiring counsel promptly on the same day. Invoices are delivered electronically for prompt payment by the hiring firm."
+      body: "Coverage services are provided at agreed flat rates (or as agreed for evidentiary matters). Detailed hearing notes are transmitted to hiring counsel promptly on the same day absent circumstances beyond The Law Office of Isabel E. Freeman's control. Invoices are delivered electronically at the end of the month of coverage for prompt payment by the hiring firm."
     },
     {
       heading: "6. Florida Bar & Federal Court Jurisdiction Notice",
