@@ -68,7 +68,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
                   <span>Emergency / After-Hours</span>
                 </div>
                 <p className="text-xs text-slate-300">
-                  <strong>$100.00 fee</strong> if requested after 5:00 PM day prior to coverage event.
+                  <strong>$100.00 fee</strong> if requested after 12:00 PM day prior to a 341 meeting, or within 24 hours of hearing coverage.
                 </p>
               </div>
             </div>
