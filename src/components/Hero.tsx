@@ -146,7 +146,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
                 </div>
                 <div className="flex items-start space-x-2">
                   <CheckCircle2 className="w-3.5 h-3.5 text-[#c59b27] shrink-0 mt-0.5" />
-                  <span><strong>Debtor Advocacy Background:</strong> Over 30 years prior debtor representation experience.</span>
+                  <span><strong>Debtor Advocacy Background:</strong> Over 30 years of bankruptcy experience.</span>
                 </div>
               </div>
 
