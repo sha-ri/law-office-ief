@@ -1,5 +1,5 @@
 // Generated visual assets for The Law Office of Isabel E. Freeman, P.A.
-import attorneyPortrait from './images/isabel-freeman-.png';
+import attorneyPortrait from './images/IEF Headshot.jpg';
 import courthouseHero from './images/courthouse_columns_hero_1787270195791.jpg';
 
 export const IMAGES = {
