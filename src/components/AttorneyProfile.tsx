@@ -104,10 +104,10 @@ export const AttorneyProfile: React.FC = () => {
 
               <div className="space-y-4 text-slate-700 text-sm sm:text-base font-body-serif leading-relaxed">
                 <p>
-                  Attorney <strong>Isabel E. Freeman</strong> has practiced bankruptcy law in Florida <strong>since 1988</strong> and is available for Zoom and telephonic 341 meetings of creditors, plan confirmation hearings, motion dockets, evidentiary hearings, and non-evidentiary hearings across the Middle District of Florida.
+                  Attorney Isabel E. Freeman has practiced bankruptcy law in Florida since 1988 and is available for Zoom and telephonic 341 meetings of creditors, plan confirmation hearings, motion dockets, evidentiary hearings, and non-evidentiary hearings across the Middle District of Florida.
                 </p>
                 <p>
-                  After over <strong>30 years of bankruptcy debtor representation</strong>, her practice has been <strong>limited exclusively to appearance coverage for the past ten (10) years</strong>. This extensive, specialized background gives hiring attorneys complete peace of mind that their clients and files will be handled with unmatched procedural mastery, deep familiarity with local trustees and judges, and genuine empathy.
+                  After over 30 years of bankruptcy debtor representation, her practice has been limited exclusively to appearance coverage for the past ten (10) years. This extensive, specialized background gives hiring attorneys complete peace of mind that their clients and files will be handled with unmatched procedural mastery, deep familiarity with local trustees and judges, and genuine empathy.
                 </p>
                 <p>
                   Attorney Freeman serves as a dependable, seamless extension of your law firm in the courtroom and on virtual Zoom dockets, ensuring your clients feel supported and your instructions are executed meticulously.
